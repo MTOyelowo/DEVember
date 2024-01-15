@@ -1,7 +1,7 @@
 import { StyleSheet, Text, View } from "react-native";
 import React from "react";
 
-const DayDetailsScreen = () => {
+const DayTwoDetailsScreen = () => {
   return (
     <View>
       <Text>Day 2 Details Screen</Text>
@@ -9,6 +9,6 @@ const DayDetailsScreen = () => {
   );
 };
 
-export default DayDetailsScreen;
+export default DayTwoDetailsScreen;
 
 const styles = StyleSheet.create({});
